@@ -11,4 +11,4 @@ def slice_simple():
     print (texto.lower()[0:3])
     print (texto[medio-1:medio+2]) 
     print (texto.lower()[0:4]+texto.lower()[-3:])
-    
+
